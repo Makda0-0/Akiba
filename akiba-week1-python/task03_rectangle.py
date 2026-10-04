@@ -1,0 +1,6 @@
+length=input("Enter the length:")
+width=input("Enter the width:")
+area=float(length)*float(width)
+perimeter=2*(float(length)+float(width))
+print("Area:",area ,"m^2")
+print("Perimeter:",perimeter,"m")
