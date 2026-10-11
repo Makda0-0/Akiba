@@ -93,5 +93,3 @@ and loops (`for` / `while`) to solve real problems. I learned how to:
 The bank mini project helped me combine everything: a `while` loop for the
 menu, `if` / `elif` / `else` for each option, input validation, and a
 counter to track transactions.
-
-## Submission
